@@ -1,0 +1,59 @@
+body, html {
+    margin:0;
+    padding:0;
+    font-family: monaco, Consolas, 'Lucida Console', monospace;
+    background-color: #222;
+    color: #fff;
+}
+
+#container2 {
+    clear:left;
+    float:left;
+    width:100%;
+    overflow:hidden;
+}
+
+#container1 {
+    float:left;
+    width:100%;
+    position:relative;
+    right:70%;
+}
+
+#main {
+    float:left;
+    width:46%;
+    position:relative;
+    left:56%;
+    overflow:hidden;
+}
+
+#sidebar {
+    float:left;
+    width:46%;
+    position:relative;
+    left:72%;
+    overflow:hidden;
+}
+
+input {
+    border: none;
+    background-color: #222;
+    color: #ccc;
+}
+
+.error {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    background-color: #fff;
+    color: #222;
+    padding: 5px;
+}
+
+a:hover {
+    background-color: #222;
+    color: #fff;
+}

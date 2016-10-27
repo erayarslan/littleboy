@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~3.3.4",
+    "rand-token": "*",
+    "lodash": "*",
+    "body-parser": "*",
+    "uuid": "*",
+    "ws": "*",
+    "js-sha512": "*",
+    "nodemailer": "*",
+    "winston": "*",
+    "lowdb": "*",
+    "morgan": "*",
+    "request": "*",
+    "tty.js": "*",
+    "sysinfo": "*",
+    "twilio": "*",
+    "multiline": "*"
+  }
+}

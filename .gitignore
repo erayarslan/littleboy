@@ -1,0 +1,6 @@
+node_modules
+.idea
+db.json
+error.log
+www/uploads
+www/deps
